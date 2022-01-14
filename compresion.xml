@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Estudiantes>
+  <Estudiante>Jose</Estudiante>
+  <Estudiante>Antonio</Estudiante>
+  <Estudiante>Andres</Estudiante>
+  <OtrasPersonas>Jose</OtrasPersonas>
+  <OtrasPersonas>Antonio</OtrasPersonas>
+  <OtrasPersonas>Andres</OtrasPersonas>
+  <Info>
+    <Nombre>Jose</Nombre>
+    <Telefono />
+    <Dir />
+    <Nombre>Antonio</Nombre>
+    <Telefono />
+    <Dir />
+    <Nombre>Andres</Nombre>
+    <Telefono />
+    <Dir />
+  </Info>
+</Estudiantes>

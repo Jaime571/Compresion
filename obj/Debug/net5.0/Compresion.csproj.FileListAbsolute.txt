@@ -1,0 +1,16 @@
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.exe
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.deps.json
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.runtimeconfig.json
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.runtimeconfig.dev.json
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.dll
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\ref\Compresion.dll
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\bin\Debug\net5.0\Compresion.pdb
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.csprojAssemblyReference.cache
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.AssemblyInfoInputs.cache
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.AssemblyInfo.cs
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.csproj.CoreCompileInputs.cache
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.dll
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\ref\Compresion.dll
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.pdb
+D:\Séptimo\Programación_Avanzada_I\I\Programas\Primer_programa\LS02\Compresion\obj\Debug\net5.0\Compresion.genruntimeconfig.cache
